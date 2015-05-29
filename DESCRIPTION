@@ -4,7 +4,7 @@ Version: 0.1
 Title: A Grammar of Nuber Squaring
 Description: A fast, consistent tool for number squaring.
 Authors@R: c(
-    person("Винни", "Пух", "wpuh@hse.ru", c("aut", "cre"))
+    person("Винни", "Пух", email="wpuh@hse.ru", role=c("aut", "cre"))
      )
 URL: https://github.com/bdemeshev-test/malikar
 BugReports: https://github.com/bdemeshev-test/malikarissues
