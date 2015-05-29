@@ -16,3 +16,21 @@ malika <- function(x, n=2) {
   return(res)
 }
 
+
+#' Historical data on cars
+#'
+#' A dataset containing speed and distance
+#'
+#' @format A data frame with 50 rows and 2 variables:
+#' \describe{
+#'   \item{speed}{...}
+#'   \item{dist}{0000}
+#'   ...
+#' }
+#' @source \url{www.yandex.ru}
+"cars2"
+
+
+
+
+
